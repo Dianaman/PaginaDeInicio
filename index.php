@@ -7,6 +7,13 @@
 		<link rel="stylesheet" href="css/stylesheet.css">
 	</head>
 	<body>
+      <form action="index.php" method="post">
+      
+        <h1>Iniciar sesión</h1>
+        
+        <button type="submit">Entrar</button><br><br>
 
+        <button type="submit">Registrarse</button>
+      </form>
 	</body>
 </html>
