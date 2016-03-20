@@ -7,13 +7,13 @@
 		<link rel="stylesheet" href="css/stylesheet.css">
 	</head>
 	<body>
-      <form action="index.php" method="post">
+      <form>
       
         <h1>Iniciar sesión</h1>
         
-        <button type="submit">Entrar</button><br><br>
+        <a href="login.php" class="button">Entrar</a>
 
-        <button type="submit">Registrarse</button>
+        <a href="signup.php" class="button">Registrarse</a>
       </form>
 	</body>
 </html>
